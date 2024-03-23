@@ -16,7 +16,7 @@
 
  ผู้พัฒนาโปรแกรม
     นาย ชูเกียรติ คำมณีจันทร์
-```mermiad
+   ```mermiad
 classdiagram
     Animal <|-- PoultryAnimal
     Animal : +string name
@@ -72,4 +72,4 @@ classdiagram
         -buttonback_Click()
         -button4_Click()  
     }
-``
+```
