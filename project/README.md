@@ -16,10 +16,8 @@
 
 ### ผู้พัฒนาโปรแกรม
     นาย ชูเกียรติ คำมณีจันทร์
-
-#### classDiagram
-    Animal <|-- ReptileAnimal
-    Animal <|-- LandAnimal
+```mermiad
+classdiagram
     Animal <|-- PoultryAnimal
     Animal : +string name
     Animal : +string gene
@@ -74,3 +72,4 @@
         -buttonback_Click()
         -button4_Click()  
     }
+```
